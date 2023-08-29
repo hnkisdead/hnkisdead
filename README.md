@@ -5,9 +5,6 @@ Current skillset inlcudes Python, Django, SQL (MySQL), TS and React.
 ## Experience
 
 ## Alter (health tech), 2021 - present
-- Set up linters and formatters for Python codebase (black, isort, flake8, pre-commit)
-- Upgraded testing infrastructure for unit testing in Python (pytest, mixer)
-- Set up infrastructure for e2e-testing (Python, Playwright)
 - Wrote new code for:
     - Video communication platform
     - ETL processes for data analytics
@@ -19,6 +16,9 @@ Current skillset inlcudes Python, Django, SQL (MySQL), TS and React.
     - Email and SMS-notifications
     - Pricing and discounts
 - Reviewed code of other developers
+- Set up linters and formatters for Python codebase (black, isort, flake8, pre-commit)
+- Upgraded testing infrastructure for unit testing in Python (pytest, mixer)
+- Set up infrastructure for e2e-testing (Python, Playwright)
 - Run sprint retrospectives
 
 
