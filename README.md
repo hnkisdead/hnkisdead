@@ -4,7 +4,7 @@ Current skillset inlcudes Python, Django, SQL (MySQL), TS and React.
 
 ## Experience
 
-## Alter (health tech), 2021 - present
+## Alter (health-tech), 2021 - present
 - Wrote new code for:
     - Video communication platform
     - ETL processes for data analytics
@@ -22,7 +22,7 @@ Current skillset inlcudes Python, Django, SQL (MySQL), TS and React.
 - Run sprint retrospectives
 
 
-## SMENA (food tech), 2016 - 2021
+## SMENA (food-tech), 2016 - 2021
 Over five years, I went from an intern to a EM of cross-functional team. During that time, I was able to accomplish many things, including:
 
 - Wrote a large amount of code in Python (Django, Flask), JS (ExtJS, jquery), TS (Vue, React), and Kotlin (TornadoFX)
