@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi, I'm a Vasily and I'm a python developer 👋
 
-<!--
-**hnkisdead/hnkisdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current skillset inlcudes Python, Django, SQL (MySQL), TS and React.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Alter (health tech), 2021 - present
+- Set up linters and formatters for Python codebase (black, isort, flake8, pre-commit)
+- Upgraded testing infrastructure for unit testing in Python (pytest, mixer)
+- Set up infrastructure for e2e-testing (Python, Playwright)
+- Wrote new code for:
+    - Video communication platform
+    - ETL processes for data analytics
+    - Integration with payment systems
+- Developed existing one for:
+    - Booking sessions with psychologists
+    - Financial accounting
+    - Integration with payment systems
+    - Email and SMS-notifications
+    - Pricing and discounts
+- Reviewed code of other developers
+- Run sprint retrospectives
+
+
+## SMENA (food tech), 2016 - 2021
+Over five years, I went from an intern to a EM of cross-functional team. During that time, I was able to accomplish many things, including:
+
+- Wrote a large amount of code in Python (Django, Flask), JS (ExtJS, jquery), TS (Vue, React), and Kotlin (TornadoFX)
+- Rebuilt the infrastructure for deploying projects using ansible
+- Built the infrastructure for backend testing using pytest, factoryboy and hypothesis
+- Developed mentorship program, onboarding process and one-on-ones
+- Developed hiring processes
+- Established the foundation for a knowledge base on products, projects, and processes
+- Conducted numerous interviews for various roles (developers, QA, HR, designers, project managers)
+- Represented the company at conferences
+- Prepared and taught a Django development school
+- Built a strong cross-functional team and developed processes within it
+- Initiated monthly hackathons
+
+Overall, I participated in many processes within the company and worked to improve existing ones or introduce new ones to make the company work better and more efficiently.
