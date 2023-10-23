@@ -4,7 +4,7 @@ Current skillset inlcudes Python, Django, SQL (MySQL), TS and React.
 
 ## Experience
 
-## Alter (health-tech), 2021 - present
+## Alter (health-tech), 2021 - 2023
 - Wrote new code for:
     - Video communication platform
     - ETL processes for data analytics
